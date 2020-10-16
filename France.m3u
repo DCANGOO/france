@@ -1,294 +1,1244 @@
-#EXTM3U
-#PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",13 EME RUE FHD
-http://bestcostiptv.com:8080/ruru/4fd09a88/181?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",13 Rue
-http://bestcostiptv.com:8080/ruru/4fd09a88/171829?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",13E RUE HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/187449?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",6ter FHD
-http://bestcostiptv.com:8080/ruru/4fd09a88/183?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",A LA CARTE 1 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/231?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",A LA CARTE 2 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/232?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",A LA CARTE 3 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/233?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Undefined",ARTE,FR | ARTE
-https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="Undefined",Alpe d’Huez TV,FR | Alpe d’Huez TV
-https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="Undefined",Antenne Réunion,FR | Antenne Réunion
-http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01&checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 1 FHD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127627?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 1 FR HD
-http://sharkiptvpro.live:80/Ian1234/Ian1234/112232?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 2 FHD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127628?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 2 FR HD
-http://sharkiptvpro.live:80/Ian1234/Ian1234/112233?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 3 FR HD
-http://sharkiptvpro.live:80/Ian1234/Ian1234/112234?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127630?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="Undefined",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",BIP TV
-http://biptv.tv/live/biptvstream_orig/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BeIN SPORTS 1 FR FullHD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5188?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BeIN SPORTS 2 FR FullHD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5186?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BeIN SPORTS 3 FR FullHD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5184?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="Undefined",BipTV
-https://biptv.tv/live/biptvstream_orig/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="Music;Undefined",CONTACT music,Radio Contact
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/cThInij.png" group-title="Undefined",D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/cThInij.png" group-title="Undefined",D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/cThInij.png" group-title="Undefined",D5 TV,FR | D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Music",D5TV
-http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/4974?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY HD
-http://sharkiptvpro.live:80/Ian1234/Ian1234/112192?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY INVESTIGATION
-http://sharkiptvpro.live:80/Ian1234/Ian1234/112191?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
-http://sharkiptvpro.live:80/Ian1234/Ian1234/112190?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY CHANNEL HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5033?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY CINEMA HD
-http://sharkiptvpro.live:80/Ian1234/Ian1234/112260?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY XD HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127685?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Discovery.Science SD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127682?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney.Channel SD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127686?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney.Cinema SD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127687?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",EUROSPORT 1 HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127696?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",EUROSPORTS 1 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2579?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",EUROSPORTS 2 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2580?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FR TELEFOOT FHD
-http://bestcostiptv.com:8080/ruru/4fd09a88/194360?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FR TELEFOOT STADIUM 1 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/194361?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FR TELEFOOT STADIUM 2 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/194362?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FR TELEFOOT STADIUM 3 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/194363?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FR TELEFOOT STADIUM 4 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/194364?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FR TELEFOOT STADIUM 5 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/194365?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FR TELEFOOT STADIUM 6 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/194366?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FR TELEFOOT STADIUM 7 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/194367?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FR TELEFOOT STADIUM 8 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/194368?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/2F8l6eE.jpg" group-title="Undefined",FR | France 3 Alpes,France 3 Alpes
-https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/t1ynZ3x.png" group-title="Undefined",FR | France 3 Rhône-Alpes,France 3 Rhône-Alpes
-https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/wX6nQAk.jpg" group-title="Undefined",FR | France Info,France Info
-https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="Undefined",FR | Gong,GONG
-http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/mMWq0Kn.png" group-title="Undefined",FR | Gulli,Gulli
-https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="Undefined",FR | LCI,LCI
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="Undefined",FR | MDL,MDL
-http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Undefined",FR | MYComedy,MYComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Undefined",FR | TF1,TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="Undefined",FR | TF1 Séries Films,TF1 Séries Films,TF1 S�ries Films
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Undefined",FR | TFX,TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="Undefined",FR | TMC,TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/6Iw1YRL.png" group-title="Undefined",FR | TZiK,TZiK
-https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/YXUMEbi.png" group-title="Undefined",FR | viaMirabelle,viaMirabelle
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/kmna9PU.png" group-title="Undefined",FR | viàMATÉLÉ,viàMATÉLÉ
-https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 2 HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127699?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 2 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5307?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 24 FHD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127700?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 24 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5289?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 3 HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127701?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 3 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5304?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 4 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5301?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 5 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5298?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE INFO FHD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127704?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE INFO HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5292?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE O HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127705?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",France 2
-http://c2.abcnew.site:8880/XHCN5VJgcs/h3B3e8NrZb/2814?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",France 2 FHD
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/26554?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News;Undefined",France 24 (Opt-1),France 24 French
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/lvrvwtm.png" group-title="Undefined",Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/ZEA3az8.png" group-title="Undefined",Grand Lille TV
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Grand Lille TV HD
-http://str81.creacast.com/grandlilletv/high/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/100135?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/tzurFum.png" group-title="Undefined",Holygod TV Europe & Middle East
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/tzurFum.png" group-title="Undefined",Holygod TV Europe & Middle East
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",IL TV
-http://live.creacast.com/iltv/smil:iltv.smil/chunklist_w1664108633_b1096000.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="Undefined",ILTV
-https://str81.creacast.com/iltv/high/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="Undefined",ILTV
-http://str81.creacast.com:80/iltv/high/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",LA CHAINE NORMANDE
-http://live.lachainenormande.fr/live/lcn/livestream/chunklist_w600527248.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/96FfLIj.jpg" group-title="Music",Lèeekô TV
-http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",MTV DANCE HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5134?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",MTV FRANCE HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5155?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",MTV HITS HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5170?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Comedy",MYComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Comedy",MYComedy
-https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",MyComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",NATGEO HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5009?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",NATGEO WILD HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5006?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127725?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",NICK Jr HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5062?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",NICKELODEON HD
-http://sharkiptvpro.live:80/Ian1234/Ian1234/112264?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",NICKELODEON HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5059?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Nat geo SD
-http://31.220.40.44:80/Ung_debernardi123/mag322/127721?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",ONE GOLF
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Undefined",Persiana 3 Junior
-http://51.158.74.129/hls/stream.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Undefined",Persiana 4 Iranian
-http://51.158.97.214/hls/stream.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Undefined",Persiana 5 Documentary
-http://163.172.174.60/hls/stream.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Undefined",Persiana 6 Music
-http://163.172.147.113/hls/stream.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="Undefined",Poker TV France
-http://51.15.254.60/hls/stream.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France
-http://rt-france.secure.footprint.net/1107.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France
-https://rt-france.secure.footprint.net/1107.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BE;FR" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="Music;Undefined",Radio Contact,Radio Contact Vision
-https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/ABKVZ3B.png" group-title="Undefined",Salamat Tube TV
-http://51.158.116.146/hls/stream.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TELEFOOT FHD
-http://bestcostiptv.com:8080/ruru/4fd09a88/192147?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TELEFOOT STADIUM 1 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/192740?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TELEFOOT STADIUM 2 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/192739?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TELEFOOT STADIUM 5 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/192736?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TELEFOOT STADIUM 7 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/192744?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TELEFOOT STADIUM 8 HD
-http://bestcostiptv.com:8080/ruru/4fd09a88/192745?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TF1 HD
-http://sharkiptvpro.live:80/Ian1234/Ian1234/112154?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TF1 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1217?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TF1 SERIES
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/19686?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/05RMwlR.png" group-title="Undefined",TV3V
-https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Undefined",TV5 Monde (Opt-1) (New!),TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Undefined",TV5 Monde (Opt-2) (New!),TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Undefined",TV5 Monde (Opt-3) (New!),TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="Undefined",TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Undefined",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Undefined",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Undefined",TV5Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Undefined",TV5Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="Undefined",TV7 Colmar
-https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="Undefined",TV7 Colmar
-http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="Undefined",TV7 Colmar
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="Undefined",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="Undefined",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",beIN SPORTS 1 FR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5189?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",beIN SPORTS 2 FR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5187?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",beIN SPORTS 3 FR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5185?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Glitz
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109935?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Glitz
-http://localdblagent.club:8080/live/Carlos1/Carlos1/12101.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Glitz
-http://localdblagent.club:8080/Carlos1/Carlos1/12101?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="http://pici.life/FR/tf1hd.png" group-title="My TVFun",TF1 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12857
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/TF1.fr.png" group-title="My TVFun",TF1 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5610
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="My TVFun",TF +1 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/678943
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/france2hd.png" group-title="My TVFun",France 2 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5669
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/france3.png" group-title="My TVFun",France 3 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12858
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/France3.fr.png" group-title="My TVFun",France 3 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5668
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/France_4_HD.png" group-title="My TVFun",France 4 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5667
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/France_5_HD.png" group-title="My TVFun",France 5 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5666
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/FranceO.fr.png" group-title="My TVFun",France O HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5664
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/M6_hd.png" group-title="My TVFun",M6 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5653
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/6ter.png" group-title="My TVFun",6Ter FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/13004
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/c8.png" group-title="My TVFun",C8 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/13006
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Cherie25.fr.png" group-title="My TVFun",Cherie 25 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5693
+
+#EXTINF:-1 tvg-logo="http://pici.life/DK/tv2fri.png" group-title="Denmark",TV2 FRI DK
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8171
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/TV5Monde.fr.png" group-title="My TVFun",TV 5 Monde FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5604
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/TV5Monde.fr.png" group-title="My TVFun",TV 5 Monde FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8631
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/RTSUn.fr.png" group-title="My TVFun",RTS Un HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5619
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/RTSDeux.fr.png" group-title="My TVFun",RTS Deux FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5618
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/elle-girl.png" group-title="My TVFun",Elle Girl FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12856
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/6ter.fr.png" group-title="My TVFun",6Ter HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5716
+
+#EXTINF:-1 tvg-logo="http://pici.life/alsace_20_fr.png" group-title="My TVFun",Alsace 20 FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12941
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/C8.fr.png" group-title="My TVFun",C8 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5703
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/LaChaineParlementaire.fr.png" group-title="My TVFun",LCP FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5655
+
+#EXTINF:-1 tvg-logo="http://pici.life/launehd_2.png" group-title="My TVFun",La Une HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5657
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/teva.png" group-title="My TVFun",Teva FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/13002
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/vosges_television.png" group-title="My TVFun",Vosges Télévision HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12932
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/OLTV.png" group-title="My TVFun",OL TV HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16900
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OLTV.fr.png" group-title="My TVFun",OLTV FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5633
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/weotv.png" group-title="My TVFun",Weo HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5600
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/rtl9.png" group-title="My TVFun",RTL 9 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5620
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/TFX.png" group-title="My TVFun",TFX FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/50868
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/RMC_Sport_News.png" group-title="My TVFun",RMC Sport News HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/624939
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/RMC_Sport_1.png" group-title="My TVFun",RMC Sport 1 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/625254
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/RMC_Sport_2.png" group-title="My TVFun",RMC Sport 2 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/86352
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/SFRSport3.fr.png" group-title="My TVFun",RMC Sport 3 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/625250
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/RMC_Sport_4.png" group-title="My TVFun",RMC Sport 4 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/625253
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Numero23.fr.png" group-title="My TVFun",RMC Story HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5638
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CANALplusSPORT.fr.png" group-title="My TVFun",Canal Sport FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8569
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Canalsporthd.png" group-title="My TVFun",Canal+ Sport FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16926
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Canalsporthd.png" group-title="My TVFun",Canal+ Sport HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5696
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/BeinSports1.fr.png" group-title="My TVFun",beIN Sports 1 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5710
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/beIN_SPORTS_2%20hd.png" group-title="My TVFun",beIN Sports 2 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12958
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/BeinSports2.fr.png" group-title="My TVFun",beIN Sports 2 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5709
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Logo_beIN_SPORTS_3%20hd.png" group-title="My TVFun",beIN Sports 3 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12957
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Bein4Max.fr.png" group-title="My TVFun",beIN Sports 4 Max FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8562
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Bein6Max.fr.png" group-title="My TVFun",beIN Sports 6 Max FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8538
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Bein7Max.fr.png" group-title="My TVFun",beIN Sports 7 Max FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8537
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Bein-sports-max-8.jpg" group-title="My TVFun",beIN Sports 8 Max FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12956
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Bein%20sport%20max9.jpg" group-title="My TVFun",beIN Sports 9 Max FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12954
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/BEINSPORTS-MAX-10.jpg" group-title="My TVFun",beIN Sports 10 Max FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12953
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/eurosport1hd.png" group-title="My TVFun",Eurosport 1 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5672
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/eurosport2hd.png" group-title="My TVFun",Eurosport 2 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5671
+
+#EXTINF:-1 tvg-logo="http://pici.life/eurosport2_2.png" group-title="My TVFun",Eurosport 2 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12951
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/BFMTV.fr.png" group-title="My TVFun",BFM Sport FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8560
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/equidialive.png" group-title="My TVFun",Equidia Life HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12950
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/EquidiaLive.fr.png" group-title="My TVFun",Equidia Live FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5675
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Equipe_Logo.png" group-title="My TVFun",Equipe HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5676
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/EQUIPE_21.png" group-title="My TVFun",Equipe 21 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5674
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/infosportplus.png" group-title="My TVFun",Info Sport+ FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12952
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/infosportplus.png" group-title="My TVFun",Infosport+ FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16915
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Infosport.fr.png" group-title="My TVFun",Infosport+ FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5660
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/GOLF+_HD.jpg" group-title="My TVFun",Golf+ FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12948
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/France24.fr.png" group-title="My TVFun",France 24 News FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8630
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/France24English.fr.png" group-title="My TVFun",France 24 English FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8559
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/france24.png" group-title="My TVFun",France 24 English [B] FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5665
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/France%20info.png" group-title="My TVFun",France Info FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12971
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="My TVFun",RT France HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/648935
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/cnews.png" group-title="My TVFun",Cnews HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16924
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/i24news.png" group-title="My TVFun",i24News FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12931
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/BFMBusiness.fr.png" group-title="My TVFun",BFM Business FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5707
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/BFMTV.fr.png" group-title="My TVFun",BFM TV FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5706
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/LCI.fr.png" group-title="My TVFun",LCi HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5656
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/EEntertainment.fr.png" group-title="My TVFun",E! Entertainment FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5678
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Non_Stop_People.png" group-title="My TVFun",Non Stop People FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16901
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/My_Zen_Tv_LOGO_Couleur_vide.jpg/420px-My_Zen_Tv_LOGO_Couleur_vide.jpg" group-title="My TVFun",My Zen TV FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/676715
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/GameOne.fr.png" group-title="My TVFun",Game One FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5663
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Trek.fr.png" group-title="My TVFun",Trek FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5608
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Gulli.fr.png" group-title="My TVFun",Gulli FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8615
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/NT1.fr.png" group-title="My TVFun",NT1 FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5639
+
+#EXTINF:-1 tvg-logo="http://pici.life/syfyhd_2.png" group-title="My TVFun",Syfy FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12968
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Syfy.fr.png" group-title="My TVFun",Syfy HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5614
+
+#EXTINF:-1 tvg-logo="http://pici.life/tcmhd_2.png" group-title="My TVFun",TMC FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5607
+
+#EXTINF:-1 tvg-logo="http://pici.life/tcmhd_2.png" group-title="My TVFun",TCM FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5613
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/NRJ12.fr.png" group-title="My TVFun",NRJ 12 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5641
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/AB1.fr.png" group-title="My TVFun",AB1 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5715
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/AB3.fr.png" group-title="My TVFun",AB3 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5714
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/13RUE.fr.png" group-title="My TVFun",13Eme Rue FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5717
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/action.png" group-title="My TVFun",Action FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/13003
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Action.fr.png" group-title="My TVFun",Action FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8629
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/ComediePlus.fr.png" group-title="My TVFun",Comedie+ HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5687
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OCSChoc.fr.png" group-title="My TVFun",OCS Choc FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5637
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OCSChoc.fr.png" group-title="My TVFun",OCS Choc HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8618
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OCSCity.fr.png" group-title="My TVFun",OCS City FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5636
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OCSGeants.fr.png" group-title="My TVFun",OCS Geants FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5635
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OCSGeants.fr.png" group-title="My TVFun",OCS Geants HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8620
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OCSMax.fr.png" group-title="My TVFun",OCS Max FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5634
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/ocsmax.png" group-title="My TVFun",OCS Max HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/38016
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Atice_Studio.png" group-title="My TVFun",Altice Studio HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/50064
+
+#EXTINF:-1 tvg-logo="http://pici.life/PL/canalplushd.png" group-title="My TVFun",Canal+ FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12860
+
+#EXTINF:-1 tvg-logo="http://pici.life/canalplushd.png" group-title="My TVFun",Canal+ HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/57012
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Canal+_Family_HD.png" group-title="My TVFun",Canal+ Family FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12970
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CANALplusFamily.fr.png" group-title="My TVFun",Canal+ Family HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8628
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Canal+_Cin%C3%A9ma_HD.png" group-title="My TVFun",Canal Cinema FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12996
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/CANAL_+_SERIES_HD.jpg" group-title="My TVFun",Canal+ Series HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5697
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CANALplusDECALE.fr.png" group-title="My TVFun",Canal Decale HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5699
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/cineplusclassic.png" group-title="My TVFun",Cine+ Classic FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12969
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/CINE+_FRISSON_HD.png" group-title="My TVFun",Cine+ Frisson HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5690
+
+#EXTINF:-1 tvg-logo="http://pici.life/Logo/cineclub.png" group-title="My TVFun",Cine Club FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12994
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/cineplusclub.png" group-title="My TVFun",Cine+ Club FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16925
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/CINE+_EMOTION_HD.png" group-title="My TVFun",Cine+ Emotion FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5691
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/cineplusfamiz.png" group-title="My TVFun",Cine+ Famiz FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12859
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CinePlusFamiz.fr.png" group-title="My TVFun",Cine Famiz FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8624
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Polar.fr.png" group-title="My TVFun",Cine+ Polar FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5689
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/CINE+_PREMIER_HD.png" group-title="My TVFun",Cine+ Premier FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5688
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/tcm.png" group-title="My TVFun",TCM Cinema FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/13001
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/serieclub.fr.png" group-title="My TVFun",Serie Club FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8622
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/paramountchannel.png" group-title="My TVFun",Paramount Channel FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16896
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/ParamountChannel.fr.png" group-title="My TVFun",Paramount Channel HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5627
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/tvbreizh.png" group-title="My TVFun",TV Breizh FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5605
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/13emerue.png" group-title="My TVFun",13Eme Rue HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12973
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/ParisPremiere.fr.png" group-title="My TVFun",Paris Premiere FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5626
+
+#EXTINF:-1 tvg-logo="http://pici.life/MCM_logo.png" group-title="My TVFun",MCM HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12967
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Nouveaux_logo_de_Nouvelas_TV_en_2019.png" group-title="My TVFun",Novelas TV FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/677836
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="My TVFun",A La Carte 1 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12930
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="My TVFun",A La Carte 2 FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12929
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte%203.png" group-title="My TVFun",A La Carte 3 FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12928
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="My TVFun",A La Carte 4 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12927
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="My TVFun",A La Carte 5 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12926
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="My TVFun",A La Carte 6 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12925
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="My TVFun",A La Carte 7 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12924
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="My TVFun",A La Carte 8 HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12923
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="My TVFun",Orange Cinema FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/13023
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="My TVFun",Orange Cinema [B] FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5632
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="My TVFun",Orange Cinema Action HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5631
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="My TVFun",Orange Cinema Aventure FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5630
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="My TVFun",Orange Cinema CEst Fait FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5629
+
+#EXTINF:-1 tvg-logo="http://pici.life/discoverychannelhd_2.png" group-title="My TVFun",Discovery FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12997
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/DiscoveryChannel.fr.png" group-title="My TVFun",Discovery HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5683
+
+#EXTINF:-1 tvg-logo="http://pici.life/investigationdiscoveryhd_2.png" group-title="My TVFun",Discovery Investigation FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/9034
+
+#EXTINF:-1 tvg-logo="http://pici.life/discoverysciencehd_2.png" group-title="My TVFun",Discovery Science FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5682
+
+#EXTINF:-1 tvg-logo="http://pici.life/picon/discoveryfamilyarb.png" group-title="My TVFun",Discovery Family FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16921
+
+#EXTINF:-1 tvg-logo="http://pici.life/nationalgeographichd_2.png" group-title="My TVFun",National Geographic FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12999
+
+#EXTINF:-1 tvg-logo="http://pici.life/nationalgeographichd_2.png" group-title="My TVFun",National Geographic FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8632
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/natgeowild.png" group-title="My TVFun",Nat Geo Wild FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16906
+
+#EXTINF:-1 tvg-logo="http://pici.life/natgeowildhd.png" group-title="My TVFun",Nat Geo Wild HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5645
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/toutelhistoire.png" group-title="My TVFun",Toute l'Histoire FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/13000
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/RMCdecouverte.fr.png" group-title="My TVFun",RMC Decouverte FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5621
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/planeteplusaande.png" group-title="My TVFun",Planete A&E HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8563
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/planeteplushd.png" group-title="My TVFun",Planete+ FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5624
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/planeteplushd.png" group-title="My TVFun",Planete+ FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8572
+
+#EXTINF:-1 tvg-logo="http://pici.life/artehd_2.png" group-title="My TVFun",Arte HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5711
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Luxe_TV.png" group-title="My TVFun",Luxe TV HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16913
+
+#EXTINF:-1 tvg-logo="http://pici.life/Picon/becurious.png" group-title="My TVFun",Luxe TV FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12861
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Animaux.fr.png" group-title="My TVFun",Animaux FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5712
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/histoire.png" group-title="My TVFun",Histoire FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16916
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Histoire.fr.png" group-title="My TVFun",Histoire FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8570
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/TouteHistoire.fr.png" group-title="My TVFun",Toute L Historie FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5606
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/scienceetvie.png" group-title="My TVFun",Science et Vie FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16894
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/scienceetvie.png" group-title="My TVFun",Science et Vie HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5615
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/seasons.png" group-title="My TVFun",Seasons FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16893
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/voyage.png" group-title="My TVFun",Voyage FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16883
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/planeteplusaande.png" group-title="My TVFun",Planete+  A&E FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12998
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/planeteplusci.png" group-title="My TVFun",Planète+ Crime Investigation FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12942
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/KTO.fr.png" group-title="My TVFun",KTO FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5659
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/My_cuisine.PNG" group-title="My TVFun",My Cuisine FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16908
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Voyage.fr.png" group-title="My TVFun",Voyage TV HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5602
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Boing.fr.png" group-title="My TVFun",Boing HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5705
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Boomerang.fr.png" group-title="My TVFun",Boomerang HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5704
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CanalJ.fr.png" group-title="My TVFun",Canal J HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5702
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/gulli.png" group-title="My TVFun",Gulli FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16917
+
+#EXTINF:-1 tvg-logo="http://pici.life/cartoonnethd.png" group-title="My TVFun",Cartoon Network FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12943
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CartoonNetwork.fr.png" group-title="My TVFun",Cartoon Network FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5695
+
+#EXTINF:-1 tvg-logo="http://pici.life/disneychannelhd_2.png" group-title="My TVFun",Disney Channel FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5681
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/disneychannel.png" group-title="My TVFun",Disney Channel +1 FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12947
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/disneycinema.png" group-title="My TVFun",Disney Cinema FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12946
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/DisneyCinema.fr.png" group-title="My TVFun",Disney Cinema HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8617
+
+#EXTINF:-1 tvg-logo="http://pici.life/disneyjnrhd_2.png" group-title="My TVFun",Disney Junior FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5679
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/disneyjunior.png" group-title="My TVFun",Disney Junior HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12945
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/disneyxd.png" group-title="My TVFun",Disney XD FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16920
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/mangas.png" group-title="My TVFun",Mangas HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/625363
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Nickelodeon.fr.png" group-title="My TVFun",Nickelodeon HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5643
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/nickelodeon4teen.png" group-title="My TVFun",Nickelodeon 4 Teen FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16903
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/nickelodeon.png" group-title="My TVFun",Nickelodeon FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16902
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/NickJr.fr.png" group-title="My TVFun",Nickelodeon Junior FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5642
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/PIWI.fr.png" group-title="My TVFun",Piwi HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5625
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/piwiplus.png" group-title="My TVFun",Piwi+ FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12944
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Tiji.fr.png" group-title="My TVFun",Tiji HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5609
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Tonami.jpg" group-title="My TVFun",Toonami FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16890
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/teletoonplus.png" group-title="My TVFun",TeleToon+ FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16891
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Mangas.fr.png" group-title="My TVFun",Mangas FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8616
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/JONE.png" group-title="My TVFun",J-One HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/625364
+
+#EXTINF:-1 tvg-logo="http://pici.life/mtvhd_2.png" group-title="My TVFun",MTV FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/7942
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/MTV.fr.png" group-title="My TVFun",MTV Hits FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8568
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/mtvhits.png" group-title="My TVFun",MTV Hits FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16910
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/bblack-africa.png" group-title="My TVFun",BBlack Africa FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/14275
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/M6Music.fr.png" group-title="My TVFun",M6 Music HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5654
+
+#EXTINF:-1 tvg-logo="http://pici.life/bet.png" group-title="My TVFun",Bet HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/7941
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CineStarAfrique.fr.png" group-title="My TVFun",CStar FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5686
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/NRJHits.fr.png" group-title="My TVFun",NRJ Hits HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5640
+
+#EXTINF:-1 tvg-logo="http://pici.life/Logo/Mcm_top_logo.png" group-title="My TVFun",MCM Top FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16911
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/trace_urban_hd.png" group-title="My TVFun",Trace Urban HD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12963
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="My TVFun",Rouge TV FR
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/643095
+
+#EXTINF:-1 tvg-logo="http://pici.life/bravahd.png" group-title="My TVFun",Brava FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/7940
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/mezzolivehd.png" group-title="My TVFun",Mezzo Live FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5652
+
+#EXTINF:-1 tvg-logo="http://pici.life/w9hd.png" group-title="My TVFun",W9 FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5601
+
+#EXTINF:-1 tvg-logo="http://pici.life/djazz.png" group-title="My TVFun",Djazz TV FHD
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/7939
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/tf1hd.png" group-title="My TVFun",TF1 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12857
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/TF1.fr.png" group-title="My TVFun",TF1 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5610
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="My TVFun",TF +1 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/678943
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/france2hd.png" group-title="My TVFun",France 2 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5669
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/france3.png" group-title="My TVFun",France 3 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12858
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/France3.fr.png" group-title="My TVFun",France 3 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5668
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/France_4_HD.png" group-title="My TVFun",France 4 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5667
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/France_5_HD.png" group-title="My TVFun",France 5 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5666
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/FranceO.fr.png" group-title="My TVFun",France O HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5664
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/M6_hd.png" group-title="My TVFun",M6 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5653
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/6ter.png" group-title="My TVFun",6Ter FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/13004
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/c8.png" group-title="My TVFun",C8 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/13006
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Cherie25.fr.png" group-title="My TVFun",Cherie 25 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5693
+
+#EXTINF:-1 tvg-logo="http://pici.life/DK/tv2fri.png" group-title="Denmark",TV2 FRI DK
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8171
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/TV5Monde.fr.png" group-title="My TVFun",TV 5 Monde FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5604
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/TV5Monde.fr.png" group-title="My TVFun",TV 5 Monde FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8631
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/RTSUn.fr.png" group-title="My TVFun",RTS Un HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5619
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/RTSDeux.fr.png" group-title="My TVFun",RTS Deux FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5618
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/elle-girl.png" group-title="My TVFun",Elle Girl FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12856
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/6ter.fr.png" group-title="My TVFun",6Ter HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5716
+
+#EXTINF:-1 tvg-logo="http://pici.life/alsace_20_fr.png" group-title="My TVFun",Alsace 20 FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12941
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/C8.fr.png" group-title="My TVFun",C8 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5703
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/LaChaineParlementaire.fr.png" group-title="My TVFun",LCP FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5655
+
+#EXTINF:-1 tvg-logo="http://pici.life/launehd_2.png" group-title="My TVFun",La Une HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5657
+
+#EXTINF:-1 tvg-logo="http://pici.life/rtl9.png" group-title="My TVFun",RTL9 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/7945
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/teva.png" group-title="My TVFun",Teva FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/13002
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/vosges_television.png" group-title="My TVFun",Vosges Télévision HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12932
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/OLTV.png" group-title="My TVFun",OL TV HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16900
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OLTV.fr.png" group-title="My TVFun",OLTV FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5633
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/weotv.png" group-title="My TVFun",Weo HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5600
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/rtl9.png" group-title="My TVFun",RTL 9 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5620
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/TFX.png" group-title="My TVFun",TFX FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/50868
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/RMC_Sport_News.png" group-title="My TVFun",RMC Sport News HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/624939
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/RMC_Sport_1.png" group-title="My TVFun",RMC Sport 1 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/625254
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/RMC_Sport_2.png" group-title="My TVFun",RMC Sport 2 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/86352
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/SFRSport3.fr.png" group-title="My TVFun",RMC Sport 3 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/625250
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/RMC_Sport_4.png" group-title="My TVFun",RMC Sport 4 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/625253
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Numero23.fr.png" group-title="My TVFun",RMC Story HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5638
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CANALplusSPORT.fr.png" group-title="My TVFun",Canal Sport FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8569
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Canalsporthd.png" group-title="My TVFun",Canal+ Sport FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16926
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Canalsporthd.png" group-title="My TVFun",Canal+ Sport HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5696
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/BeinSports1.fr.png" group-title="My TVFun",beIN Sports 1 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5710
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/beIN_SPORTS_2%20hd.png" group-title="My TVFun",beIN Sports 2 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12958
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/BeinSports2.fr.png" group-title="My TVFun",beIN Sports 2 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5709
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Logo_beIN_SPORTS_3%20hd.png" group-title="My TVFun",beIN Sports 3 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12957
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Bein4Max.fr.png" group-title="My TVFun",beIN Sports 4 Max FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8562
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Bein6Max.fr.png" group-title="My TVFun",beIN Sports 6 Max FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8538
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Bein7Max.fr.png" group-title="My TVFun",beIN Sports 7 Max FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8537
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Bein-sports-max-8.jpg" group-title="My TVFun",beIN Sports 8 Max FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12956
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Bein%20sport%20max9.jpg" group-title="My TVFun",beIN Sports 9 Max FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12954
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/BEINSPORTS-MAX-10.jpg" group-title="My TVFun",beIN Sports 10 Max FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12953
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/eurosport1hd.png" group-title="My TVFun",Eurosport 1 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5672
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/eurosport2hd.png" group-title="My TVFun",Eurosport 2 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5671
+
+#EXTINF:-1 tvg-logo="http://pici.life/eurosport2_2.png" group-title="My TVFun",Eurosport 2 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12951
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/BFMTV.fr.png" group-title="My TVFun",BFM Sport FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8560
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/equidialive.png" group-title="My TVFun",Equidia Life HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12950
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/EquidiaLive.fr.png" group-title="My TVFun",Equidia Live FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5675
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Equipe_Logo.png" group-title="My TVFun",Equipe HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5676
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/EQUIPE_21.png" group-title="My TVFun",Equipe 21 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5674
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/FootPlus24.fr.png" group-title="My TVFun",Foot+ 24 FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5670
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/infosportplus.png" group-title="My TVFun",Info Sport+ FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12952
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/infosportplus.png" group-title="My TVFun",Infosport+ FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16915
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Infosport.fr.png" group-title="My TVFun",Infosport+ FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5660
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/GOLF+_HD.jpg" group-title="My TVFun",Golf+ FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12948
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/France24.fr.png" group-title="My TVFun",France 24 News FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8630
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/France24English.fr.png" group-title="My TVFun",France 24 English FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8559
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/france24.png" group-title="My TVFun",France 24 English [B] FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5665
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/France%20info.png" group-title="My TVFun",France Info FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12971
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="My TVFun",RT France HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/648935
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/cnews.png" group-title="My TVFun",Cnews HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16924
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/i24news.png" group-title="My TVFun",i24News FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12931
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/BFMBusiness.fr.png" group-title="My TVFun",BFM Business FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5707
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/BFMTV.fr.png" group-title="My TVFun",BFM TV FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5706
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/LCI.fr.png" group-title="My TVFun",LCi HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5656
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/EEntertainment.fr.png" group-title="My TVFun",E! Entertainment FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5678
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Non_Stop_People.png" group-title="My TVFun",Non Stop People FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16901
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/My_Zen_Tv_LOGO_Couleur_vide.jpg/420px-My_Zen_Tv_LOGO_Couleur_vide.jpg" group-title="My TVFun",My Zen TV FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/676715
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/GameOne.fr.png" group-title="My TVFun",Game One FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5663
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Trek.fr.png" group-title="My TVFun",Trek FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5608
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Gulli.fr.png" group-title="My TVFun",Gulli FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8615
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/NT1.fr.png" group-title="My TVFun",NT1 FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5639
+
+#EXTINF:-1 tvg-logo="http://pici.life/syfyhd_2.png" group-title="My TVFun",Syfy FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12968
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Syfy.fr.png" group-title="My TVFun",Syfy HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5614
+
+#EXTINF:-1 tvg-logo="http://pici.life/tcmhd_2.png" group-title="My TVFun",TMC FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5607
+
+#EXTINF:-1 tvg-logo="http://pici.life/tcmhd_2.png" group-title="My TVFun",TCM FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5613
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/NRJ12.fr.png" group-title="My TVFun",NRJ 12 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5641
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/AB3.fr.png" group-title="My TVFun",AB3 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5714
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/13RUE.fr.png" group-title="My TVFun",13Eme Rue FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5717
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/action.png" group-title="My TVFun",Action FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/13003
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Action.fr.png" group-title="My TVFun",Action FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8629
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/ComediePlus.fr.png" group-title="My TVFun",Comedie+ HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5687
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OCSChoc.fr.png" group-title="My TVFun",OCS Choc FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5637
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OCSChoc.fr.png" group-title="My TVFun",OCS Choc HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8618
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OCSCity.fr.png" group-title="My TVFun",OCS City FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5636
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OCSGeants.fr.png" group-title="My TVFun",OCS Geants FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5635
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OCSGeants.fr.png" group-title="My TVFun",OCS Geants HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8620
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/OCSMax.fr.png" group-title="My TVFun",OCS Max FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5634
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/ocsmax.png" group-title="My TVFun",OCS Max HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/38016
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Atice_Studio.png" group-title="My TVFun",Altice Studio HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/50064
+
+#EXTINF:-1 tvg-logo="http://pici.life/PL/canalplushd.png" group-title="My TVFun",Canal+ FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12860
+
+#EXTINF:-1 tvg-logo="http://pici.life/canalplushd.png" group-title="My TVFun",Canal+ HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/57012
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Canal+_Family_HD.png" group-title="My TVFun",Canal+ Family FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12970
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CANALplusFamily.fr.png" group-title="My TVFun",Canal+ Family HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8628
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Canal+_Cin%C3%A9ma_HD.png" group-title="My TVFun",Canal+ Cinema HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5700
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Canal+_Cin%C3%A9ma_HD.png" group-title="My TVFun",Canal Cinema FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12996
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/CANAL_+_SERIES_HD.jpg" group-title="My TVFun",Canal+ Series HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5697
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CANALplusDECALE.fr.png" group-title="My TVFun",Canal Decale HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5699
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/cineplusclassic.png" group-title="My TVFun",Cine+ Classic FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12969
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/CINE+_FRISSON_HD.png" group-title="My TVFun",Cine+ Frisson HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5690
+
+#EXTINF:-1 tvg-logo="http://pici.life/Logo/cineclub.png" group-title="My TVFun",Cine Club FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12994
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/cineplusclub.png" group-title="My TVFun",Cine+ Club FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16925
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/CINE+_EMOTION_HD.png" group-title="My TVFun",Cine+ Emotion FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5691
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/cineplusfamiz.png" group-title="My TVFun",Cine+ Famiz FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12859
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CinePlusFamiz.fr.png" group-title="My TVFun",Cine Famiz FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8624
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Polar.fr.png" group-title="My TVFun",Cine+ Polar FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5689
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/CINE+_PREMIER_HD.png" group-title="My TVFun",Cine+ Premier FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5688
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/tcm.png" group-title="My TVFun",TCM Cinema FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/13001
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/serieclub.fr.png" group-title="My TVFun",Serie Club FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8622
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/paramountchannel.png" group-title="My TVFun",Paramount Channel FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16896
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/ParamountChannel.fr.png" group-title="My TVFun",Paramount Channel HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5627
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/paramountchannel.png" group-title="My TVFun",Paramount Decale FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16895
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="My TVFun",Warner TV HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/655432
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/tvbreizh.png" group-title="My TVFun",TV Breizh FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5605
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/13emerue.png" group-title="My TVFun",13Eme Rue HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12973
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/ParisPremiere.fr.png" group-title="My TVFun",Paris Premiere FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5626
+
+#EXTINF:-1 tvg-logo="http://pici.life/MCM_logo.png" group-title="My TVFun",MCM HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12967
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Nouveaux_logo_de_Nouvelas_TV_en_2019.png" group-title="My TVFun",Novelas TV FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/677836
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="My TVFun",A La Carte 1 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12930
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="My TVFun",A La Carte 2 FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12929
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte%203.png" group-title="My TVFun",A La Carte 3 FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12928
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="My TVFun",A La Carte 5 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12926
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="My TVFun",A La Carte 6 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12925
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="My TVFun",A La Carte 7 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12924
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="My TVFun",A La Carte 8 HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12923
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="My TVFun",Orange Cinema FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/13023
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="My TVFun",Orange Cinema [B] FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5632
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="My TVFun",Orange Cinema Action HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5631
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="My TVFun",Orange Cinema Aventure FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5630
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="My TVFun",Orange Cinema CEst Fait FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5629
+
+#EXTINF:-1 tvg-logo="http://pici.life/discoverychannelhd_2.png" group-title="My TVFun",Discovery FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12997
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/DiscoveryChannel.fr.png" group-title="My TVFun",Discovery HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5683
+
+#EXTINF:-1 tvg-logo="http://pici.life/investigationdiscoveryhd_2.png" group-title="My TVFun",Discovery Investigation FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/9034
+
+#EXTINF:-1 tvg-logo="http://pici.life/discoverysciencehd_2.png" group-title="My TVFun",Discovery Science FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5682
+
+#EXTINF:-1 tvg-logo="http://pici.life/picon/discoveryfamilyarb.png" group-title="My TVFun",Discovery Family FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16921
+
+#EXTINF:-1 tvg-logo="http://pici.life/nationalgeographichd_2.png" group-title="My TVFun",National Geographic FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12999
+
+#EXTINF:-1 tvg-logo="http://pici.life/nationalgeographichd_2.png" group-title="My TVFun",National Geographic FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8632
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/natgeowild.png" group-title="My TVFun",Nat Geo Wild FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16906
+
+#EXTINF:-1 tvg-logo="http://pici.life/natgeowildhd.png" group-title="My TVFun",Nat Geo Wild HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5645
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/toutelhistoire.png" group-title="My TVFun",Toute l'Histoire FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/13000
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/RMCdecouverte.fr.png" group-title="My TVFun",RMC Decouverte FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5621
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/planeteplusaande.png" group-title="My TVFun",Planete A&E HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8563
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/planeteplushd.png" group-title="My TVFun",Planete+ FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5624
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/planeteplushd.png" group-title="My TVFun",Planete+ FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8572
+
+#EXTINF:-1 tvg-logo="http://pici.life/artehd_2.png" group-title="My TVFun",Arte HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5711
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Luxe_TV.png" group-title="My TVFun",Luxe TV HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16913
+
+#EXTINF:-1 tvg-logo="http://pici.life/Picon/becurious.png" group-title="My TVFun",Luxe TV FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12861
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Animaux.fr.png" group-title="My TVFun",Animaux FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5712
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/histoire.png" group-title="My TVFun",Histoire FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16916
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Histoire.fr.png" group-title="My TVFun",Histoire FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8570
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/TouteHistoire.fr.png" group-title="My TVFun",Toute L Historie FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5606
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/scienceetvie.png" group-title="My TVFun",Science et Vie FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16894
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/scienceetvie.png" group-title="My TVFun",Science et Vie HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5615
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/voyage.png" group-title="My TVFun",Voyage FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16883
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/planeteplusaande.png" group-title="My TVFun",Planete+  A&E FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12998
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/ChassePeche.fr.png" group-title="My TVFun",Chasse E Peche HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5694
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/planeteplusci.png" group-title="My TVFun",Planète+ Crime Investigation FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12942
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/KTO.fr.png" group-title="My TVFun",KTO FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5659
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Boing.fr.png" group-title="My TVFun",Boing HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5705
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Boomerang.fr.png" group-title="My TVFun",Boomerang HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5704
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CanalJ.fr.png" group-title="My TVFun",Canal J HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5702
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/gulli.png" group-title="My TVFun",Gulli FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16917
+
+#EXTINF:-1 tvg-logo="http://pici.life/cartoonnethd.png" group-title="My TVFun",Cartoon Network FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12943
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CartoonNetwork.fr.png" group-title="My TVFun",Cartoon Network FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5695
+
+#EXTINF:-1 tvg-logo="http://pici.life/disneychannelhd_2.png" group-title="My TVFun",Disney Channel FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5681
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/disneychannel.png" group-title="My TVFun",Disney Channel +1 FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12947
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/disneycinema.png" group-title="My TVFun",Disney Cinema FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12946
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/DisneyCinema.fr.png" group-title="My TVFun",Disney Cinema HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8617
+
+#EXTINF:-1 tvg-logo="http://pici.life/disneyjnrhd_2.png" group-title="My TVFun",Disney Junior FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5679
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/disneyjunior.png" group-title="My TVFun",Disney Junior HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12945
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/disneyxd.png" group-title="My TVFun",Disney XD FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16920
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/DisneyXD.fr.png" group-title="My TVFun",Disney XD HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8614
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/mangas.png" group-title="My TVFun",Mangas HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/625363
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Nickelodeon.fr.png" group-title="My TVFun",Nickelodeon HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5643
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/nickelodeon4teen.png" group-title="My TVFun",Nickelodeon 4 Teen FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16903
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/nickelodeon.png" group-title="My TVFun",Nickelodeon FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16902
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/NickJr.fr.png" group-title="My TVFun",Nickelodeon Junior FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5642
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/PIWI.fr.png" group-title="My TVFun",Piwi HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5625
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/piwiplus.png" group-title="My TVFun",Piwi+ FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12944
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Tiji.fr.png" group-title="My TVFun",Tiji HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5609
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Tonami.jpg" group-title="My TVFun",Toonami FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16890
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/teletoonplus.png" group-title="My TVFun",TeleToon+ FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16891
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/TeleToonPlus.fr.png" group-title="My TVFun",TeleToon+ FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5612
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/Mangas.fr.png" group-title="My TVFun",Mangas FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8616
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/JONE.png" group-title="My TVFun",J-One HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/625364
+
+#EXTINF:-1 tvg-logo="http://pici.life/mtvhd_2.png" group-title="My TVFun",MTV FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/7942
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/MTV.fr.png" group-title="My TVFun",MTV Hits FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/8568
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/mtvhits.png" group-title="My TVFun",MTV Hits FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16910
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/bblack-africa.png" group-title="My TVFun",BBlack Africa FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/14275
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/M6Music.fr.png" group-title="My TVFun",M6 Music HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5654
+
+#EXTINF:-1 tvg-logo="http://pici.life/bet.png" group-title="My TVFun",Bet HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/7941
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/CineStarAfrique.fr.png" group-title="My TVFun",CStar FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5686
+
+#EXTINF:-1 tvg-logo="http://pici.life/fr/NRJHits.fr.png" group-title="My TVFun",NRJ Hits HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5640
+
+#EXTINF:-1 tvg-logo="http://pici.life/Logo/Mcm_top_logo.png" group-title="My TVFun",MCM Top FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16911
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/Trace_Africa.png" group-title="My TVFun",Trace Africa FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/16889
+
+#EXTINF:-1 tvg-logo="http://pici.life/FR/trace_urban_hd.png" group-title="My TVFun",Trace Urban HD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/12963
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="My TVFun",Rouge TV FR
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/643095
+
+#EXTINF:-1 tvg-logo="http://pici.life/bravahd.png" group-title="My TVFun",Brava FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/7940
+
+#EXTINF:-1 tvg-logo="http://pici.life/w9hd.png" group-title="My TVFun",W9 FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/5601
+
+#EXTINF:-1 tvg-logo="http://pici.life/djazz.png" group-title="My TVFun",Djazz TV FHD
+http://mytv.fun:8080/p9qu8ydo37/rbck8uz6zq/7939
